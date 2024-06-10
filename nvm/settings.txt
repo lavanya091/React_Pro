@@ -1,2 +1,0 @@
-root: D:\React_Pro\nvm
-path: C:\Program Files\nodejs
